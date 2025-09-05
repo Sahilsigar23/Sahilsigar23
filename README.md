@@ -16,7 +16,8 @@ I specialize in building **modern web applications, clean user interfaces, and s
 ---
 
 ## 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/sahil-sigar-0198a4297/) | [LeetCode](https://leetcode.com/u/sahilSigar/) | [Email Me](mailto:yourgmail@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sahil-sigar-0198a4297/) | [LeetCode](https://leetcode.com/u/sahilSigar/) | [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=sahilsigar321@gmail.com)
+
 
 
 ---
