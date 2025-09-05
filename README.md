@@ -37,9 +37,17 @@ I specialize in building **modern web applications, clean user interfaces, and s
 
 
 ## 📌 Featured Projects
-- **✨ Real-Time Chat App** – MERN + Socket.IO for instant messaging
-- **🧳 Smart Trip Planner** – React + Gemini AI + Firebase for AI-powered travel suggestions
-- **📂 File Zipper Software** – Built with C++ & DSA for compression
+✨ Real-Time Chat App – MERN + Socket.IO for instant messaging
+
+🧳 Smart Trip Planner – React + Gemini AI + Firebase for AI-powered travel suggestions
+
+📂 File Zipper Software – Built with C++ & DSA for compression
+
+🤖 WhatsApp Auto-Reply Bot – Node.js + Puppeteer/Evolution API for automated WhatsApp replies with dashboard
+
+📝 FastAPI Blog API – FastAPI + SQLAlchemy + PostgreSQL for full-featured blog backend with CRUD, search & migrations
+
+🛠 LeetCode Extension – JavaScript + Chrome Extension APIs to improve productivity while solving problems
 
 ---
 
