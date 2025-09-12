@@ -32,7 +32,7 @@ I specialize in building **modern web applications, clean user interfaces, and s
 - C++ (Data Structures & Algorithms)
 
 **🔧 Tools & Platforms**
-- Firebase, Git, GitHub
+- Firebase, Git, GitHub ,Docker
 - VS Code, Figma
 - Alembic, SQLAlchemy, REST APIs, Socket.IO
 
