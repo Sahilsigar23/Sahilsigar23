@@ -11,7 +11,7 @@ I specialize in building **modern web applications, clean user interfaces, and s
 - 🔭 Building Projects: **Smart Trip Planner (AI), Real-time Chat App, File Zipper (C++ DSA), WhatsApp Auto-Reply Bot, FastAPI Blog API, LeetCode Extension**
 - 🎯 Career Goal: Become a **versatile software developer** with expertise in full-stack development and AI-powered solutions
 - 📫 Get in Touch: Email me or connect below!
-- 💬 Fun Fact: I enjoy solving tough coding challenges and blending creativity with technology
+- 💬 Fun Fact: I enjoy solving tough coding challenges and blending creativity with technolog
 
 ---
 
