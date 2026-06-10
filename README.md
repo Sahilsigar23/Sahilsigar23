@@ -25,16 +25,32 @@ I specialize in building **modern web applications, clean user interfaces, and s
 ## 🛠️ Tech Stack
 
 **💻 Languages & Frameworks**
-- JavaScript, TypeScript
-- React, Next.js, TailwindCSS
-- Node.js, Express.js, MongoDB
-- FastAPI, Python, PostgreSQL
-- C++ (Data Structures & Algorithms)
+- JavaScript, TypeScript, Python, C++, SQL
+- React.js, Next.js, TailwindCSS
+- Node.js, Express.js, FastAPI
+- MongoDB, PostgreSQL, Firebase
+- HTML5, CSS3
+- REST APIs, Socket.IO, WebSockets
+- SQLAlchemy, Alembic
+
+**🤖 AI & LLM Technologies**
+- OpenAI API, Gemini API
+- LangChain, RAG
+- AI Agents, Prompt Engineering
+- LLM Integrations & Automation
+
+**☁️ Cloud & DevOps**
+- Docker, AWS
+- Firebase, Vercel, Render
+- Git, GitHub
+- CI/CD Basics
 
 **🔧 Tools & Platforms**
-- Firebase, GitHub, Docker, Render, Vercel
-- VS Code, Figma, AWS, Postman
-- Alembic, SQLAlchemy, REST APIs, Socket.IO
+- VS Code, Postman, Figma
+- Linux, npm, Yarn
+- MongoDB Atlas
+- Evolution API, Chatwoot
+- n8n Automation
 
 ---
 
