@@ -72,8 +72,11 @@ I specialize in building **modern web applications, clean user interfaces, and s
 ---
 
 ## 📅 Future Plans
-- Contribute more to **open-source** 🌍  
-- Master **Next.js, TypeScript, and AWS** for production-ready apps  
+- Contribute more to **Open Source** 🌍
+- Master **Next.js, TypeScript, AWS, and System Design** 🚀
+- Build scalable **AI & Full-Stack Applications** 🤖
+- Explore **Cloud, DevOps, and Distributed Systems** ☁️
+- Keep improving in **DSA & Competitive Programming** 🧩
 
 ---
 
