@@ -24,33 +24,15 @@ I specialize in building scalable full-stack applications, crafting intuitive us
 
 ## 🛠️ Tech Stack
 
-**💻 Languages & Frameworks**
-- JavaScript, TypeScript, Python, C++, SQL
-- React.js, Next.js, TailwindCSS
-- Node.js, Express.js, FastAPI
-- MongoDB, PostgreSQL, Firebase
-- HTML5, CSS3
-- REST APIs, Socket.IO, WebSockets
-- SQLAlchemy, Alembic
-
-**🤖 AI & LLM Technologies**
-- OpenAI API, Gemini API
-- LangChain, RAG
-- AI Agents, Prompt Engineering
-- LLM Integrations & Automation
-
-**☁️ Cloud & DevOps**
-- Docker, AWS
-- Firebase, Vercel, Render
-- Git, GitHub
-- CI/CD Basics
-
-**🔧 Tools & Platforms**
-- VS Code, Postman, Figma
-- Linux, npm, Yarn
-- MongoDB Atlas
-- Evolution API, Chatwoot
-- n8n Automation
+| Category | Technologies |
+|-----------|-------------|
+| 💻 Languages | JavaScript, TypeScript, Python, C++, SQL |
+| 🎨 Frontend | React.js, Next.js, TailwindCSS, HTML5, CSS3 |
+| ⚙️ Backend | Node.js, Express.js, FastAPI, REST APIs, Socket.IO |
+| 🗄️ Database | MongoDB, PostgreSQL, Firebase, Supabase, SQLAlchemy, Alembic |
+| 🤖 AI & LLMs | OpenAI API, Gemini API, LangChain, RAG, AI Agents |
+| ☁️ Cloud & DevOps | Docker, AWS, Vercel, Render, Git, GitHub, CI/CD |
+| 🔧 Tools | VS Code, Postman, Figma, Linux, npm, Yarn, n8n, Chatwoot |
 
 ---
 
