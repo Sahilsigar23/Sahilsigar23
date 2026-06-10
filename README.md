@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm **Sahil Sigar**, a passionate **Software Developer and Full-Stack Engineer** from 🇮🇳 India.
 
-I specialize in building **modern web applications, clean user interfaces, and scalable systems**, while also exploring **AI integrations** and mastering **Data Structures & Algorithms in C++**.
+I specialize in building scalable full-stack applications, crafting intuitive user experiences, and integrating AI-powered solutions while continuously sharpening my problem-solving skills through Data Structures & Algorithms in C++.
 
 ---
 
