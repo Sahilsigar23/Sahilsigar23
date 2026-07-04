@@ -63,4 +63,4 @@ I engineer scalable full-stack applications and AI-powered systems using LangCha
 ---
 
 ## 📝 License
-This profile is open for inspiration and collaboration. Let’s connect and build something amazing! 🚀
+This profile is open for inspiration and collaboration. Let’s connect and build something amazing! 🚀.
