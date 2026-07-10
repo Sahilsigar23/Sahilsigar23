@@ -30,7 +30,7 @@ I engineer scalable full-stack applications and AI-powered systems using LangCha
 | 🎨 Frontend | React.js, Next.js, TailwindCSS, HTML5, CSS3 |
 | ⚙️ Backend | Node.js, Express.js, FastAPI, Django, REST APIs, Socket.IO |
 | 🗄️ Database | MongoDB, PostgreSQL, Firebase, Supabase, SQLAlchemy, Alembic |
-| 🤖 AI & LLMs | OpenAI API, Gemini API, LangChain, RAG, LangGraph, AI Agents |
+| 🤖 AI & LLMs | OpenAI API, Gemini API, LangChain, RAG, LangGraph, AI Agents, Agentic AI |
 | ☁️ Cloud & DevOps | Docker, AWS, Vercel, Render, Git, GitHub, CI/CD |
 | 🔧 Tools | VS Code, Postman, Figma, Linux, npm, Yarn, n8n, Chatwoot |
 
