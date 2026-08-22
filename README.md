@@ -24,7 +24,7 @@ I engineer scalable full-stack applications and AI-powered systems using LangCha
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
+| Category  | Technologies |
 |-----------|-------------|
 | 💻 Languages | JavaScript, TypeScript, Python, C++, SQL |
 | 🎨 Frontend | React.js, Next.js, TailwindCSS, HTML5, CSS3 |
