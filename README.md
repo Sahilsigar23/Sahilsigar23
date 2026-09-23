@@ -1,17 +1,22 @@
 # 👨‍💻 Sahil Sigar
 
-Welcome to my GitHub profile! I'm **Sahil Sigar**, a passionate **Software Developer and Full-Stack Engineer** from 🇮🇳 India.
+Welcome to my GitHub profile! 👋 I'm Sahil Sigar, a Software Developer and AI/Full-Stack Engineer from 🇮🇳 India, passionate about building scalable applications, intelligent AI-powered systems, and practical developer tools.
 
-I engineer scalable full-stack applications and AI-powered systems using LangChain, RAG, Agentic AI, and modern LLM technologies. Passionate about solving complex engineering challenges, I combine strong expertise in Data Structures & Algorithms, C++, and modern software engineering to build intelligent, high-performance, and scalable products.
+I engineer scalable full-stack applications and AI-powered systems using LangChain, RAG, Agentic AI, and modern LLM technologies. I’m passionate about solving complex engineering challenges and building intelligent, high-performance products that work reliably in real-world environments.
+
+With a strong foundation in Data Structures & Algorithms, C++, backend engineering, and modern software development, I enjoy turning ideas into production-ready systems and continuously exploring new technologies in AI and software engineering.
+
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently Exploring: **Next.js, TypeScript, AI integrations, and scalable system design**
-- 🔭 Building Projects: **Smart Trip Planner (AI), Real-time Chat App, File Zipper (C++ DSA), WhatsApp Auto-Reply Bot, FastAPI Blog API, LeetCode Extension**
-- 🎯 Career Goal: Become a **versatile software developer** with expertise in full-stack development and AI-powered solutions
-- 📫 Get in Touch: Email me or connect below!
-- 💬 Fun Fact: I enjoy solving tough coding challenges and blending creativity with technology
+🔭 Building: AI-powered applications, developer automation tools, and full-stack projects
+💻 Currently Working With: Python, TypeScript, JavaScript, FastAPI, Next.js, PostgreSQL, and AI/LLM technologies
+🚀 Projects: WatchLens, GitHub Automation Bot, Smart Trip Planner, Real-time Chat App, and other developer-focused tools
+🎯 Career Goal: Become a versatile software engineer specializing in scalable systems, full-stack development, and AI-powered solutions
+🧩 Interests: Backend engineering, system design, developer tools, automation, and solving real-world problems with software
+📫 Get in Touch: Feel free to connect or reach out by email
+⚡ Fun Fact: I enjoy turning ideas into working products and tackling challenging coding problems
 
 ---
 
