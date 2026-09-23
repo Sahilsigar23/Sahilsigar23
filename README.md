@@ -10,13 +10,14 @@ With a strong foundation in Data Structures & Algorithms, C++, backend engineeri
 ---
 
 ## 🚀 About Me
--🔭 Building: AI-powered applications, developer automation tools, and full-stack projects
--💻 Currently Working With: Python, TypeScript, JavaScript, FastAPI, Next.js, PostgreSQL, and AI/LLM technologies
--🚀 Projects: WatchLens, GitHub Automation Bot, Smart Trip Planner, Real-time Chat App, and other developer-focused tools
--🎯 Career Goal: Become a versatile software engineer specializing in scalable systems, full-stack development, and AI-powered solutions
--🧩 Interests: Backend engineering, system design, developer tools, automation, and solving real-world problems with software
--📫 Get in Touch: Feel free to connect or reach out by email
--⚡ Fun Fact: I enjoy turning ideas into working products and tackling challenging coding problems
+
+* 🔭 **Building:** AI-powered applications, developer automation tools, and full-stack projects
+* 💻 **Currently Working With:** Python, TypeScript, JavaScript, FastAPI, Next.js, PostgreSQL, and AI/LLM technologies
+* 🚀 **Projects:** WatchLens, GitHub Automation Bot, Smart Trip Planner, Real-time Chat App, and other developer-focused tools
+* 🎯 **Career Goal:** Become a versatile software engineer specializing in scalable systems, full-stack development, and AI-powered solutions
+* 🧩 **Interests:** Backend engineering, system design, developer tools, automation, and solving real-world problems with software
+* 📫 **Get in Touch:** Feel free to connect or reach out by email
+* ⚡ **Fun Fact:** I enjoy turning ideas into working products and tackling challenging coding problems
 
 ---
 
