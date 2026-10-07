@@ -33,7 +33,7 @@ With a strong foundation in Data Structures & Algorithms, C++, backend engineeri
 | Category  | Technologies |
 |-----------|-------------|
 | 💻 Languages | JavaScript, TypeScript, Python, C++, SQL |
-| 🎨 Frontend | React.js, Next.js, TailwindCSS, HTML5, CSS3 |
+| 🎨 Frontend | React.js, Next.js, TailwindCSS, HTML5, CSS3 , Redux |
 | ⚙️ Backend | Node.js, Express.js, FastAPI, Django, REST APIs, Socket.IO |
 | 🗄️ Database | MongoDB, PostgreSQL, Firebase, Supabase, SQLAlchemy, Alembic |
 | 🤖 AI & LLMs | OpenAI API, Gemini API, LangChain, RAG, LangGraph, AI Agents, Agentic AI |
