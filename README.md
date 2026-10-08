@@ -69,4 +69,4 @@ With a strong foundation in Data Structures & Algorithms, C++, backend engineeri
 ---
 
 ## 📝 License
-This profile is open for inspiration and collaboration. Let’s connect and build something amazing! 🚀
+This profile is open for inspiration and collaboration. Let’s connect and build something amazing!🚀
